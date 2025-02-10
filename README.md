@@ -8,4 +8,4 @@
 - **Frameworks:** Gin, Laravel, React.js  
 - **Cloud:** AWS, GCP, Kubernetes, Docker  
 
-📫 **Let's connect!** [LinkedIn](https://linkedin.com/in/YOUR-LINK) | [Email](mailto:abonuoha@gmail.com)
+📫 **Let's connect!** [LinkedIn](https://www.linkedin.com/in/abeloha/) | [Email](mailto:abonuoha@gmail.com)
